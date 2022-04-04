@@ -6,7 +6,7 @@
 
 About Me!
 
-- 🔭 I’m currently working at Surfboard Payments Pvt Ltd., Chennai.
+- 🔭 I’m currently working at Surfboard Payments Pvt Ltd. as Front End Developer
 - 🌱 I’m currently Learning Data Structures, Algorithms and Full Stack Development
 - 💬 Interested in Designs
 - 😄 Pronouns: He/Him

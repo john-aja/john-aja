@@ -6,7 +6,7 @@
 
 👋 Hi there! I'm John, a passionate Frontend Developer based in Chennai, India. I specialize in creating responsive and pixel-perfect web applications, with a knack for crafting user-friendly and optimized experiences. My journey involves both frontend and backend technologies, allowing me to build comprehensive web solutions.
 
-- 💼 Currently working at [Company Name], a payment company in Chennai.
+- 💼 Currently working at Surfboard Payments, a payment company in Chennai.
 - 🛠️ Proficient in Angular Framework, currently expanding my horizons with React.
 - ⚙️ Backend skills include Node.js, Express.js, and TypeORM.
 - 🚀 Experienced in building Progressive Web Apps (PWAs) that combine the best of web and mobile.

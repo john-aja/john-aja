@@ -1,14 +1,32 @@
-### Hey you 👋
+# John
 
-<img class="thumb" data-pin-no-hover="true" src="https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?t=st=1649101557~exp=1649102157~hmac=24df80729eeb5a1d337855f93bfe981c7dad94e591c70e2483f6fba737a374d0" srcset="https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?t=st=1649101557~exp=1649102157~hmac=24df80729eeb5a1d337855f93bfe981c7dad94e591c70e2483f6fba737a374d0&amp;w=360 360w, https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?t=st=1649101557~exp=1649102157~hmac=24df80729eeb5a1d337855f93bfe981c7dad94e591c70e2483f6fba737a374d0&amp;w=740 740w, https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?t=st=1649101557~exp=1649102157~hmac=24df80729eeb5a1d337855f93bfe981c7dad94e591c70e2483f6fba737a374d0&amp;w=826 826w, https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?t=st=1649101557~exp=1649102157~hmac=24df80729eeb5a1d337855f93bfe981c7dad94e591c70e2483f6fba737a374d0&amp;w=900 900w, https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?t=st=1649101557~exp=1649102157~hmac=24df80729eeb5a1d337855f93bfe981c7dad94e591c70e2483f6fba737a374d0&amp;w=996 996w, https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?t=st=1649101557~exp=1649102157~hmac=24df80729eeb5a1d337855f93bfe981c7dad94e591c70e2483f6fba737a374d0&amp;w=1060 1060w, https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?t=st=1649101557~exp=1649102157~hmac=24df80729eeb5a1d337855f93bfe981c7dad94e591c70e2483f6fba737a374d0&amp;w=1380 1380w, https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?t=st=1649101557~exp=1649102157~hmac=24df80729eeb5a1d337855f93bfe981c7dad94e591c70e2483f6fba737a374d0&amp;w=1480 1480w, https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?t=st=1649101557~exp=1649102157~hmac=24df80729eeb5a1d337855f93bfe981c7dad94e591c70e2483f6fba737a374d0&amp;w=1800 1800w, https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?t=st=1649101557~exp=1649102157~hmac=24df80729eeb5a1d337855f93bfe981c7dad94e591c70e2483f6fba737a374d0&amp;w=2000 2000w" sizes="(max-width: 479px) 100vw, (min-aspect-ratio: 626/417) calc((100vh - 184px) * 1.501199040767386), (max-width: 1095px) calc(100vw - 40px), calc(100vw - 540px)" width="880" height="500" alt="Close-up image of programer working at his desk in office Free Photo" style="max-width: calc((100vh - 184px) * 1.501199040767386)">
+## Frontend Developer | Backend Enthusiast | Angular & React Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F70000&background=18565687&vCenter=true&width=800&lines=Welcome+to+John's+GIT+HUB+profile!;Front+End+Developer;Website+Designer)](https://git.io/typing-svg)
 
-About Me!
+👋 Hi there! I'm John, a passionate Frontend Developer based in Chennai, India. I specialize in creating responsive and pixel-perfect web applications, with a knack for crafting user-friendly and optimized experiences. My journey involves both frontend and backend technologies, allowing me to build comprehensive web solutions.
 
-- 🔭 I’m currently working at Surfboard Payments Pvt Ltd. as Front End Developer
-- 🌱 I’m currently Learning Data Structures, Algorithms and Full Stack Development
-- 💬 Interested in Designs
-- 😄 Pronouns: He/Him
+- 💼 Currently working at [Company Name], a payment company in Chennai.
+- 🛠️ Proficient in Angular Framework, currently expanding my horizons with React.
+- ⚙️ Backend skills include Node.js, Express.js, and TypeORM.
+- 🚀 Experienced in building Progressive Web Apps (PWAs) that combine the best of web and mobile.
+- 🌐 Skilled in module routing, components wireframing, and implementing Authentication Guards.
+- ✅ Dedicated to delivering user-friendly form validations and ensuring a smooth UX.
+- 🎨 Passionate about turning functional requirements into appealing and technically sound web designs.
 - ⚡ Fav. Quote: Live with memories, not dreams! Let's live all of it! 
--->
+
+## Tech Stack
+
+- Frontend: Angular, React
+- Backend: Node.js, Express.js, TypeORM
+- Tools: GitHub, GitLab
+
+## Connect with Me
+
+📧 [Email] janakiram.0695@gmail.com
+
+🔗 [LinkedIn] https://www.linkedin.com/in/ram-a-19-a-j/
+
+📷 [Instagram] https://www.instagram.com/im_jon_aj
+
+Feel free to reach out if you're interested in collaborating or just want to chat about technology and web development!

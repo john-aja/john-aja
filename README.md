@@ -2,7 +2,7 @@
 
 ## Frontend Developer | Backend Enthusiast | Angular & React Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F70000&background=18565687&vCenter=true&width=800&lines=Welcome+to+John's+GIT+HUB+profile!;Front+End+Developer;Website+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D76F7&width=435&lines=Front+End+Developer;Backend+Enthusiast;React+Enthusiast;Website+Designer)](https://git.io/typing-svg)
 
 👋 Hi there! I'm John, a passionate Frontend Developer based in Chennai, India. I specialize in creating responsive and pixel-perfect web applications, with a knack for crafting user-friendly and optimized experiences. My journey involves both frontend and backend technologies, allowing me to build comprehensive web solutions.
 

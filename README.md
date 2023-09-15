@@ -29,4 +29,6 @@
 
 📷 https://www.instagram.com/im_jon_aj
 
+📞 +91 93454 72593
+
 Feel free to reach out if you're interested in collaborating or just want to chat about technology and web development!

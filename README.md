@@ -23,10 +23,10 @@
 
 ## Connect with Me
 
-📧 [Email] janakiram.0695@gmail.com
+📧 janakiram.0695@gmail.com
 
-🔗 [LinkedIn] https://www.linkedin.com/in/ram-a-19-a-j/
+🔗 https://www.linkedin.com/in/ram-a-19-a-j/
 
-📷 [Instagram] https://www.instagram.com/im_jon_aj
+📷 https://www.instagram.com/im_jon_aj
 
 Feel free to reach out if you're interested in collaborating or just want to chat about technology and web development!

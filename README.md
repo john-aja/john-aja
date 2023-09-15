@@ -1,6 +1,6 @@
 # John
 
-## Frontend Developer | Backend Enthusiast | Advanced in Angular & React Enthusiast
+## Frontend Developer | Advanced in Angular | Backend & React Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&weight=800&size=32&duration=3000&pause=1000&vCenter=true&width=435&lines=Front+End+Developer;Website+Designer;React+Enthusiast;Backend+Enthusiast)](https://git.io/typing-svg)
 

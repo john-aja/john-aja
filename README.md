@@ -18,7 +18,9 @@
 ## Tech Stack
 
 - Frontend: Angular, React
-- Backend: Node.js, Express.js, TypeORM
+
+- Backend: Node.js, Express.js, TypeORM, Firebase
+  
 - Tools: GitHub, GitLab
 
 ## Connect with Me
